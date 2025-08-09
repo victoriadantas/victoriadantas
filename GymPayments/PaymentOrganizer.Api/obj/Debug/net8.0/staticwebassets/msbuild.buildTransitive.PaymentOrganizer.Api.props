@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/PaymentOrganizer.Api.props" />
+</Project>
