@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5udAeSvsv/UoEEWCj+tK+24VEvhQVGItSj0g90JwCj4=",
+  "Source": "PaymentOrganizer.Api",
+  "BasePath": "_content/PaymentOrganizer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
